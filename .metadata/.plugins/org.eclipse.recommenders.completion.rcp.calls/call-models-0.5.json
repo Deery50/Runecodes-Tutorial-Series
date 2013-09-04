@@ -9,5 +9,10 @@
     "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
     "status": "RESOLVED",
     "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\Java-Tutorials\\Documents\\GitHub\\Runecodes-Tutorial-Series\\Episode2\\src": {
+    "location": "C:\\Users\\Java-Tutorials\\Documents\\GitHub\\Runecodes-Tutorial-Series\\Episode2\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Java-Tutorials\\Documents\\GitHub\\Runecodes-Tutorial-Series\\Episode2\\src\u0027. Skipped."
   }
 }

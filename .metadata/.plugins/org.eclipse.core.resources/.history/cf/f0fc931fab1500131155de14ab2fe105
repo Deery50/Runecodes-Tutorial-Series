@@ -1,0 +1,16 @@
+package com.runetooncraft.tutorials.episode2;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class Episode2 extends JFrame {
+	private Episode2 frame = null;
+	private JPanel contentPane;
+	
+	public Episode2() {
+		setResizable(false);
+		setTitle("This is a title");
+		setBounds(100,100,400,200);
+		
+	}
+}

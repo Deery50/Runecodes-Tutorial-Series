@@ -91,6 +91,19 @@
     "javaRuntime": true
   },
   {
+    "symbolicName": "miglayout15-swing",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fff96da90b15855f975aa00dc1c827da4edee8fc",
+    "jarFileModificationDate": "2013-09-04T17:55:08.890-04:00",
+    "location": "C:\\Users\\Java-Tutorials\\Documents\\GitHub\\Runecodes-Tutorial-Series\\Episode2\\miglayout15-swing.jar",
+    "javaRuntime": false
+  },
+  {
     "symbolicName": "jre",
     "version": {
       "major": 1,
