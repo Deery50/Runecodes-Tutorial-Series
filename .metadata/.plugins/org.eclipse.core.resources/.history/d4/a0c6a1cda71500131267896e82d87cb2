@@ -1,0 +1,14 @@
+package com.runetooncraft.tutorials.episode1;
+
+public class Episode1 {
+	public int ReturnInteger(String IntegerString) { //String = asdlfja;lskdjfwoeiru1234 | int = 12319501 | double = 123.5231431 | boolean = true/false
+		// if the String is an integer, it will parse the string to an integer.
+		return Integer.parseInt(IntegerString);
+	}
+	public boolean ReturnBoolean() {
+		
+	}
+	public String ReturnString() {
+		
+	}
+}
