@@ -1,9 +1,0 @@
-package com.runetooncraft.tutorials.episode2;
-
-import javax.swing.JFrame;
-
-public class Episode2 extends JFrame{
-	public Episode2() {
-		setResizable(false);
-	}
-}
